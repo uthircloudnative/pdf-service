@@ -1,4 +1,4 @@
-package com.learntech.pdfmanager.pdfservice;
+package com.learntech.pdfmanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.learntech.pdfmanager.pdfservice;
+package com.learntech.pdfmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
